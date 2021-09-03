@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omartoutounji
-- 👀 I’m interested in designing and creating apps that re-define things just as hwyd re-defined journaling
+- 👀 I’m interested in designing and creating apps that re-define things, just as [hwyd](https://github.com/omartoutounji/hwyd) re-defined journaling
 - 🌱 I’m currently learning how to become a better developer
 - 💞️ I’m looking to collaborate on building revolutionary apps
 - 📫 How to reach me: omartoutounji@icloud.com
